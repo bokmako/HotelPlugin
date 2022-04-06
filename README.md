@@ -7,8 +7,6 @@ Permissions:
 "hotel.main" - Access users to interact with hotel.
 "hotel.admin" - Admin commands.
 
-Commands:
-
 User commands:
 
 /hotel rent - rent room for 1 day 
